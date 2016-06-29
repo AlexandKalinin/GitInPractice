@@ -1,2 +1,3 @@
-Hello, Git!
+Welcome, Git!
+New line
 Second commit.
