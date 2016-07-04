@@ -1,11 +1,3 @@
-Welcome, Git!
-New line
-
-Two Chapter.
+== Chapter 1
 // TODO
 
-Second commit.
-Test Push from another repository
-Test Fetch command.
-
-Technique 33. Merging!!!
