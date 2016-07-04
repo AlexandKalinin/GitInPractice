@@ -1,14 +1,2 @@
-Welcome, Git!
-New line
-
-Two Chapter.
-// TODO
-
-Second commit.
-Test Push from another repository
-Test Fetch command.
-
-Technique 33. Merging!!!
-
-Some new changes...
-
+## Chapter 1
+It is a truth universally acknowledged, that a single person in possession of good source code, must be in want of a version control system.
