@@ -9,3 +9,6 @@ Test Push from another repository
 Test Fetch command.
 
 Technique 33. Merging!!!
+
+Some new changes...
+
